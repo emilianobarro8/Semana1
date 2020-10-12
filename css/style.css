@@ -78,6 +78,13 @@ h1{
     margin-bottom: 10px;
 }
 
+article a{
+    color: #00AFDF!important;
+    font-size: 17px;
+    line-height: 23px!important;
+    font-family: 'Source Sans Pro',sans-serif!important;
+}
+
 h2{
     font-size: 17px;
     line-height: normal;
